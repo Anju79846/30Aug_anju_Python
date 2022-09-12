@@ -1,0 +1,16 @@
+
+print("this is backslash\\")
+print("this is backslash\\\\")
+#.......................................
+print("single\' quots\'")
+#.........................................
+print("double \"quots\"")
+#......................................
+
+print("this\n is my new\n line")
+#..................................
+
+print("this\t is my tab line\t")
+#.............................
+
+print("thi\bs is\b my backslash\b")
