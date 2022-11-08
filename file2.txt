@@ -1,0 +1,16 @@
+Introduction of Python
+- Python is an interpreted, object-oriented, high-level programming language
+-Clean syntax plus high-level data types
+- Reduced developmenttime
+- Clean, clear syntax  Very few keywords
+- The Python interpreter and the extensive standard library
+one
+one
+two
+Apple
+mango
+Banana
+Cherry
+Guavava
+jackfruit
+grapes

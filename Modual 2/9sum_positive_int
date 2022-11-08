@@ -1,0 +1,4 @@
+n = int(input("Enter number:"))
+
+sun = (n*(n+1)) / 2
+print("sum is :",sum)

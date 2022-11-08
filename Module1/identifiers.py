@@ -7,6 +7,7 @@ from xml.dom import InvalidModificationErr
 title ="Learm coding"
 123title ="Anish"
 country_name = "India"
-country-name = "india"
+
+country_name = "india"
 True = "india"
 

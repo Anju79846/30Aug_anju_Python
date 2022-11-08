@@ -1,0 +1,9 @@
+"""a=10
+b=20
+print(a+b)
+"""
+a=5
+b=10
+a,b=b,a
+    print(a)
+         print(b)
